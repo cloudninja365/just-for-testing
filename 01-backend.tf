@@ -3,7 +3,7 @@ terraform {
   backend "gcs" {
     bucket = "manningterraformstate2"
     prefix = "terraform/state"
-    credentials = "phantombraves-8c6f6a136931.json"
+    #credentials = "phantombraves-8c6f6a136931.json"
   }
   required_providers {
     google = {
