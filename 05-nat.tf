@@ -22,3 +22,5 @@ resource "google_compute_address" "nat" {
   network_tier = "PREMIUM"
 
 }
+
+#Test
