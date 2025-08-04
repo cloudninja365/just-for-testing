@@ -55,3 +55,5 @@ We're doing a "Compare and Pull"
 
 Invictus111 & Million$ - Dev Tools
 - We have been assigned the task of Dev Tool Developers for the Git Actions Project. We will be creating the Terraform.yaml to scan the first drop. Primarily this is a Github actions workflow that automates the Terraform commands. You can do such as 'Terraform init', 'Terraform Plan', 'Terraform validate', etc. This yaml will define how and when Terraform runs should happen, in response to events like a pull request, push to main, or manual trigger.
+
+jody & futurist cloud engineers
